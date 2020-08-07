@@ -104,4 +104,4 @@ After running 7 sequential experiments to optimize CNN classification model, we 
 
 ### Acknowledgment
 
-This project was submitted as part of the requirements of the General Assembly Data Science immersive course. For 3 months I have been surrounded by energetic inspiring colleagues and instructors. I have learned a lot, and most importantly, I have gained life-time friendship. MiSK foundation has been generous to award us this fellowship, and we hope that we met their trust. I would like to thank all General Assembly staff, specially (in alphabetical order): Andrew, Esraa, Khaled8, and Spencer; without you we would be still just a simple linear model! Thanks a lot.
+This project was submitted as part of the requirements of the General Assembly Data Science immersive course. For 3 months I have been surrounded by energetic inspiring colleagues and instructors. I have learned a lot, and most importantly, I have gained life-time friendship. I would like to thank all General Assembly staff, specially (in alphabetical order): Andrew, Esraa, Khaled, and Spencer; without you we would be still just a simple linear model! Thanks a lot.
